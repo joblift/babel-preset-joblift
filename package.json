@@ -1,11 +1,11 @@
 {
   "name": "babel-preset-joblift",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/joblift/babel-preset-joblift.git",
   "author": "marudor <marudor@marudor.de>",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "@babel/core": "^7.0.0-beta.55",
     "@babel/plugin-proposal-class-properties": "^7.0.0-beta.55",
     "@babel/plugin-proposal-export-default-from": "^7.0.0-beta.55",
