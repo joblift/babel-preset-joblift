@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-joblift",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "repository": "https://github.com/joblift/babel-preset-joblift.git",
   "author": "marudor <marudor@marudor.de>",
@@ -12,6 +12,7 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.0.0-beta.55",
     "@babel/plugin-proposal-json-strings": "^7.0.0-beta.55",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.0.0-beta.55",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.55",
     "@babel/plugin-proposal-optional-chaining": "^7.0.0-beta.55",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0-beta.55",
     "@babel/plugin-syntax-import-meta": "^7.0.0-beta.55"
